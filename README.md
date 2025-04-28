@@ -5,6 +5,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 AI Сервис для анализа медицинских заключений для поиска в норме (по заключению  AI сервисов) патологий (по заключению врача) с использованием BERT-модели.
+На github выложен только код, без файлов обученной модели.
 
 ##  Возможности
 
